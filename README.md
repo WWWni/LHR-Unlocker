@@ -1,4 +1,4 @@
-# electron-test
+# LHR-Unlocker
 
 ## Project setup
 ```
