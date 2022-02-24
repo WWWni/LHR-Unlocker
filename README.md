@@ -17,7 +17,7 @@ npm run electron:build
 
 ### Just For Fun
 ```
-enjoy!
+a electron-vue test app, enjoy!
 ```
 
 
